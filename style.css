@@ -1,0 +1,139 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+}
+
+.container {
+    padding: 85px;
+}
+
+.Section-one {
+
+    background-color: Black;
+    color: white;
+    padding: 13px;
+    
+}
+
+.section-one__name {
+    font-size: 60px;
+}
+
+.section-one__title {
+    margin-top: 10px;
+}
+
+.section-one__btn{
+    font-size: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: yellowgreen;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    display: inline-block;
+    margin-top: 10px;
+    text-decoration: none;
+    
+}
+
+.section-one__btn:hover{
+
+    background-color:lightcoral;
+}
+
+.section-two,.section-three,.section-four{
+    margin-top: 15px; 
+    font-size: 30px;
+}
+
+.section-two__desc{
+    margin-top: 10px;
+}
+
+.section-three__heading,.section-four__desc,.section-five__desc{
+    margin-top: 10px;
+}
+
+.section-three__list,.section-four__list,.section-five__list{
+      margin-top: 20px;
+      list-style: none;
+
+}
+
+.section-three{
+          background-color: blueviolet;
+          display: inline-block;
+          height: 250px;
+          padding: 40px;
+          border-radius: 10px;
+         
+      
+}
+
+.section-four{
+          background-color:orangered;
+          display: inline-block;
+          height: 250px;
+          padding: 40px;
+          border-radius: 10px;
+          vertical-align: top; 
+          
+         
+}
+
+.section-six{
+         background-color: black;
+         margin-top: 25px;
+         padding: 20px;
+         color: white;
+}
+.section-six_name{
+    margin:5px;
+}
+
+.section-six a{
+    color: blue;
+}
+
+.contact-form{
+ margin-top: 30px;
+}
+
+.contact-form__input,.contact-form__textarea,.contact-form__sumbit{
+
+    padding: 15px;
+    margin-top: 10px;
+    font-size: 20px;
+    
+}
+
+.contact-form__input,.contact-form__textarea,.contact-form__sumbit:focus{
+  outline: none;
+}
+.contact-form__input{
+
+    border: none;
+    border-bottom:solid black 1px;
+    
+}
+
+.contact-form__sumbit{
+     border-radius: 10px;
+     padding: 15px;
+     color: white;
+     background-color: olive;
+     border: none;
+}
+
+.contact-form__textarea{
+    border: solid black 1px;
+}
