@@ -1,7 +1,6 @@
  1.Portfolio Website
-
-    This is a simple personal portfolio website built using HTML and CSS. It showcases my work and allows visitors
-    to get in touch with me .
+    This is a simple personal portfolio website built using HTML and CSS. It showcases
+    my work and allows visitors to get in touch with me .
     
  2.Pages
     Home: A brief Introduction and welcome message.
