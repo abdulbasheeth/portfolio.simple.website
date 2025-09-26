@@ -4,7 +4,7 @@ This is a simple personal portfolio website built using **HTML** and **CSS**. It
 
 ## Pages
 
-* **Home:** Introduction, brief overview of skills, and professional summary.
+* **Home:** A breif introduction and welcome message.
 * **Contact:** A page with contact information to reach out directly.
 
 ## Technologies Used
